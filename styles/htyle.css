@@ -365,7 +365,7 @@ section five
     }
     .section-two-images{
         grid-template-columns: repeat(1, 1fr);
-        padding-left: 20px;
+        justify-items: center;
     }
     .section-two-info{
         padding-left: 20px;
